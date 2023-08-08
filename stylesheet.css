@@ -1,0 +1,12 @@
+body
+{ 
+  background-color: aquamarine;  
+  color: rgb(80, 2, 28);
+  font-size: large;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+img
+{
+  width: 100%;
+  height: auto;
+}
